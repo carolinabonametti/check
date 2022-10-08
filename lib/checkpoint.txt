@@ -1,0 +1,18 @@
+1 - Adicionar Validação ao cadastrar um TODO. (1pts)
+O campo "O que precisa ser feito?" deve ser obrigatório (não pode ser nulo ou vazio) 
+
+2 -  Cadastrar Todo (2pts)
+Ao clicar no FloatActionButton o app deverá cadastrar o todo Utilizando o método addTodo na classe TodoProvider. 
+
+
+3 - Listar Todos (3pt)
+Acessando dados do Provider listar todos no listview 
+
+4 -  Toggle Todo complete (1pt)
+Ao clicar no checkbox deverá alterar para completo e incompleto
+
+6 -  Implementar "Completar Todos" e "Limpar Completos"  (2pts)
+
+7 - Implementar Estatíscas  (2pts)
+
+Total 11pts
